@@ -4,7 +4,7 @@
   <title><![CDATA[Blog for Qideas]]></title>
   <link href="http://winiepu.github.com/ruc12fall/atom.xml" rel="self"/>
   <link href="http://winiepu.github.com/ruc12fall/"/>
-  <updated>2012-09-06T00:22:57+08:00</updated>
+  <updated>2012-09-06T00:36:48+08:00</updated>
   <id>http://winiepu.github.com/ruc12fall/</id>
   <author>
     <name><![CDATA[Qideas]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[title]]></title>
-    <link href="http://winiepu.github.com/ruc12fall/ruc12fall/2012/09/06/title/"/>
+    <link href="http://winiepu.github.com/ruc12fall/blog/2012/09/06/title/"/>
     <updated>2012-09-06T00:07:00+08:00</updated>
-    <id>http://winiepu.github.com/ruc12fall/ruc12fall/2012/09/06/title</id>
+    <id>http://winiepu.github.com/ruc12fall/blog/2012/09/06/title</id>
     <content type="html"><![CDATA[<p>hello hello hello
 hello</p>
 ]]></content>
