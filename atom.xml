@@ -1,25 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Blog for Qideas]]></title>
+  <title><![CDATA[Fall 2012 RUC]]></title>
   <link href="http://winiepu.github.com/ruc12fall/atom.xml" rel="self"/>
   <link href="http://winiepu.github.com/ruc12fall/"/>
-  <updated>2012-09-06T10:56:18+08:00</updated>
+  <updated>2012-09-10T11:38:37+08:00</updated>
   <id>http://winiepu.github.com/ruc12fall/</id>
   <author>
-    <name><![CDATA[Qideas]]></name>
+    <name><![CDATA[ruc]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[title]]></title>
-    <link href="http://winiepu.github.com/ruc12fall/blog/2012/09/06/title/"/>
+    <title type="html"><![CDATA[International Economics Syllabus Fall 2012]]></title>
+    <link href="http://winiepu.github.com/ruc12fall/blog/2012/09/06/interecon-syllabus/"/>
     <updated>2012-09-06T00:07:00+08:00</updated>
-    <id>http://winiepu.github.com/ruc12fall/blog/2012/09/06/title</id>
-    <content type="html"><![CDATA[<p>hello hello hello
-hello</p>
+    <id>http://winiepu.github.com/ruc12fall/blog/2012/09/06/interecon-syllabus</id>
+    <content type="html"><![CDATA[<p><em>Course Description</em>:</p>
+
+<p>studies the economics of the global economy. This course consists of two parts:</p>
+
+<p>International Trade and International Finance. First, we will analyze the causes and consequences of
+international trade. We will try to answer the questions such as “Why do countries trade?” and
+What do they trade?” We will also investigate who gains from the trade. We will then examine the
+policy issues involved in international trade. We will analyze the motives for countries to restrict
+trade and the effects of such policies on economic welfare.</p>
+
+<p>In the second part of the course, we will move to study the basic theory of international finance
+and its policy implications. Potential topics will include balance of payments, foreign exchange
+market, exchange rate determination, etc.</p>
+
+<p><em>Prerequisite</em>:</p>
+
+<p>I will be constantly using results you learned in Intermediate Micro, such as the utility maximization problem and its related topics (i.e., income and substitution effects, intertemporal choice, labor supply, etc.). Math-wise, I will take as granted that you know how to work with calculus (derivatives and general optimization); although the course will not be math-based, I will be using calculus from time to time when this procedure is useful to formalize the intuition. I will try to put emphasis on the conceptual content rather than mathematical sophistication, although the latter is sometimes unavoidable. I will provide a handout with the basics of mathematical analysis you need to know for the course.</p>
+
+<p>Since you will be working with data, I will assume that you have a working knowledge of programs that help you to organize and graph numbers, such as Microsoft Excel. From past experience knowledge of data-handling programs like MS Excel is useful well beyond the scope of this class.</p>
+
+<p><em>Text Books</em>:</p>
+
+<p>The required textbook for this course is International Economics: Theory &amp; Policy by
+ Paul R. Krugman and Maurice Obstfeld, Addison Wesley, 2009.</p>
+
+<p>International Economics by Robert C. Feenstra and Alan M. Taylor</p>
+
+<p><em>Course Requirements</em>:</p>
+
+<p>There will be 4 homework assignments, a final. Class attendance is not mandatory but is highly recommended. From past experience, students who did not attend classes on average did poorly in this class.</p>
+
+<p>Tentative Course Online (Preliminary, Subject to Change)</p>
+
+<p><em>Part I: International Trade</em></p>
+
+<ol>
+<li>Introduction and overview</li>
+<li>The Ricardian Model</li>
+<li>Heckscher-Ohlin Model</li>
+<li>Imperfect Competition and International Trade</li>
+<li>International Trade Policy</li>
+<li>International Factor Movements</li>
+</ol>
+
+
+<p><em>Part II: International Macro</em></p>
+
+<ol>
+<li>National Income Accounting and Balance of Payments</li>
+<li>Exchange Rate and the Foreign Exchange Market</li>
+<li>Money, Interest Rates, and Exchange Rates</li>
+<li>Price Levels, and the Exchange Rate in the Long Run</li>
+<li>Output and the Exchange Rate in the Short Run</li>
+<li>Fixed Exchange Rates and Foreign Exchange Intervention</li>
+</ol>
+
 ]]></content>
   </entry>
   
