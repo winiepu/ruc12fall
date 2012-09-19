@@ -4,7 +4,7 @@
   <title><![CDATA[Fall 2012 RUC]]></title>
   <link href="http://winiepu.github.com/ruc12fall/atom.xml" rel="self"/>
   <link href="http://winiepu.github.com/ruc12fall/"/>
-  <updated>2012-09-12T17:31:17+08:00</updated>
+  <updated>2012-09-19T10:26:30+08:00</updated>
   <id>http://winiepu.github.com/ruc12fall/</id>
   <author>
     <name><![CDATA[ruc]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ricardian model]]></title>
+    <link href="http://winiepu.github.com/ruc12fall/blog/2012/09/19/ricardian-model/"/>
+    <updated>2012-09-19T10:25:00+08:00</updated>
+    <id>http://winiepu.github.com/ruc12fall/blog/2012/09/19/ricardian-model</id>
+    <content type="html"><![CDATA[<p>We have finished chapter 2. I have sent hw1 and new slides to your email. Check them out.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[inter_slides1]]></title>
+    <link href="http://winiepu.github.com/ruc12fall/blog/2012/09/14/inter-slides1/"/>
+    <updated>2012-09-14T10:44:00+08:00</updated>
+    <id>http://winiepu.github.com/ruc12fall/blog/2012/09/14/inter-slides1</id>
+    <content type="html"><![CDATA[<p>I have sent slides to your email. Check them out.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[macro_slides1]]></title>
+    <link href="http://winiepu.github.com/ruc12fall/blog/2012/09/14/macro-slides1/"/>
+    <updated>2012-09-14T10:40:00+08:00</updated>
+    <id>http://winiepu.github.com/ruc12fall/blog/2012/09/14/macro-slides1</id>
+    <content type="html"><![CDATA[<p>I have sent slides to your email. Check it out.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Intermediate Macro syllabus]]></title>
